@@ -13,6 +13,15 @@
     <element xmi:type="uml:Actor" href="example.uml#_txue8F3XEeS3MbLrL1E_AA"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ty6xwV3XEeS3MbLrL1E_AA" x="343" y="151"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_0E2HwGDVEeSd1dw47Ypm7Q" type="2016">
+    <children xmi:type="notation:DecorationNode" xmi:id="_0E2Hw2DVEeSd1dw47Ypm7Q" type="5025"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_0E2HxGDVEeSd1dw47Ypm7Q" type="7013">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0E2HxWDVEeSd1dw47Ypm7Q"/>
+    </children>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_0E2HwWDVEeSd1dw47Ypm7Q"/>
+    <element xmi:type="uml:Package" href="example.uml#_z0A2cGDVEeSd1dw47Ypm7Q"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0E2HwmDVEeSd1dw47Ypm7Q" x="462" y="47" width="95" height="63"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_sZ8zsV3XEeS3MbLrL1E_AA" name="diagram_compatibility_version" stringValue="1.0.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_sZ8zsl3XEeS3MbLrL1E_AA"/>
   <styles xmi:type="style:PapyrusViewStyle" xmi:id="_sZ8zs13XEeS3MbLrL1E_AA">
